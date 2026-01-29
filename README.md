@@ -74,7 +74,7 @@ It highlights featured books, allows users to search for books, and provides dir
 # Dhruv Solanki
 📍 India
 
-# Link of Project : 
+# Link of Project : https://dhruv24jicys008-oss.github.io/BOOK-MANIA/
 
 # License
 
